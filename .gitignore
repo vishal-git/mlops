@@ -2,3 +2,7 @@ data/
 .ipynb_checkpoints
 .bin
 .env
+02-experiment-tracking/mlflow.db
+mlflow.db
+models/
+02-experiment-tracking/mlruns/
